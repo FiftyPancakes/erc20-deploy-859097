@@ -1,2 +1,3 @@
-# erc20-deploy-859097
-ERC-20 token deployment toolkit
+# Token Deployer
+
+Deploy and manage ERC-20 tokens with Uniswap liquidity.
